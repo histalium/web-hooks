@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHooks.Client", "WebHooks.Client\WebHooks.Client.csproj", "{D39253DD-AE61-48B1-B970-8FD9D503D7C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHooks.Sender", "WebHooks.Sender\WebHooks.Sender.csproj", "{1E13545D-0124-4B8B-BECA-545C0E5FD6B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHooks.Utilities", "WebHooks.Utilities\WebHooks.Utilities.csproj", "{83F327CE-B7F7-47C7-BF83-DB6D179C8E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39253DD-AE61-48B1-B970-8FD9D503D7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39253DD-AE61-48B1-B970-8FD9D503D7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39253DD-AE61-48B1-B970-8FD9D503D7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39253DD-AE61-48B1-B970-8FD9D503D7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E13545D-0124-4B8B-BECA-545C0E5FD6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E13545D-0124-4B8B-BECA-545C0E5FD6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E13545D-0124-4B8B-BECA-545C0E5FD6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E13545D-0124-4B8B-BECA-545C0E5FD6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F327CE-B7F7-47C7-BF83-DB6D179C8E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F327CE-B7F7-47C7-BF83-DB6D179C8E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F327CE-B7F7-47C7-BF83-DB6D179C8E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F327CE-B7F7-47C7-BF83-DB6D179C8E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3CF2E1-3268-4DC3-9AE0-405C8A82B16B}
+	EndGlobalSection
+EndGlobal
